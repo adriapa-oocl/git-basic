@@ -2,3 +2,4 @@ Welcome to my Git Basics exercises
 
 1. Create a new file called newfile.txt
 2. Updated newfile.txt
+3. Edited newfile.txt on Github

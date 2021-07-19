@@ -1,5 +1,6 @@
 Welcome to my Git Basics exercises
 
-1. Create a new file called newfile.txt
-2. Updated newfile.txt
-3. Edited newfile.txt on Github
+Differences with Git commands:
+1. Add - Add command is where you tell the git to add the files specifically or using "." command to add all files in your current working directory to your local staging branch
+2. Commit - Commit command is where you tell the git to either save/overwrite/add all the file in your staging branch and make an image of the current state of your repository. A unique identifier will be generated at the same time which represents your commit. A commit message will be required as well upon commit which describes the image you have committed into your repository.
+3. Push - Push command is where you tell the git to save the local copy of your repository and add the those to your repository which is usually your remote origin in Github.
